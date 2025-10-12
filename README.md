@@ -55,14 +55,6 @@ To run this analysis locally:
 	```powershell
 	jupyter notebook "FBLA Air Quality.ipynb"
 	```
-
-## Suggestions for Improvement
-- Add automated data download scripts for reproducibility
-- Integrate interactive dashboards (e.g., Plotly, Dash)
-- Expand health impact analysis with additional metrics
-- Include machine learning models for predictive air quality analytics
-- Add unit tests and code documentation for maintainability
-
 ## Contact & Contributions
 For questions, suggestions, or contributions, please open an issue or submit a pull request.
 
